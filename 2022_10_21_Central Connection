@@ -159,7 +159,7 @@
                         <!-- 1 Column Text : BEGIN -->
                         <tr>
                             <td style="padding: 40px; padding-top: 5px; padding-bottom: 5px; text-align: left; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555;">
-                                <p>Hi {{First Name}},</p>
+                                <p>Hi,</p>
                                 <p>Good Friday afternoon. I hope this email finds you well. Please take a moment and watch this week's Central Connection.</p>
                                 <p>We have a lot going on over the next few weeks, so read this email.</p>
                                 <p>I hope to see you <strong>Sunday at 5:00 PM for our churchwide Soup and Sandwich Supper</strong> in honor of Pastor Appreciation Month. I share a little bit about Pastor Appreciation Month in my video.</p>
@@ -446,7 +446,7 @@
                     <table align="center" width="600" class="email-container">
                         <tr>
                             <td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;">
-                                <webversion style="color:#555555; text-decoration:underline; font-weight: bold;"><a href="https://adamburton83.github.io/email/cbc_email_10-20-2022.html"><span style="color: #555555">View as a Web Page</span></a></webversion>
+                                <webversion style="color:#555555; text-decoration:underline; font-weight: bold;"><a href="https://adamburton83.github.io/central_connection/2022_10_21/"><span style="color: #555555">View as a Web Page</span></a></webversion>
                                 <br>
                                 <br> Central Baptist Church<br>
                                 <span class="mobile-link--footer">437 Central Ave | Maysville, KY</span> <br>
