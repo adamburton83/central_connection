@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=">
+    <meta property="og:image" content="https://i.imgur.com/Xj0uIGU.png">
+    <meta charset="utf-8">
+    <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Use the latest (edge) version of IE rendering engine -->
+    <title>Central Connection | November 11, 2022</title>
+    <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <!-- Please use an inliner tool to convert all CSS to inline as inpage or external CSS is removed by email clients -->
+    <!-- important in CSS is used to prevent the styles of currently inline CSS from overriding the ones mentioned in media queries when corresponding sscreen sizes are encountered -->
+    <!-- CSS Reset -->
+    <style type="text/css">
+        /* What it does: Remove spaces around the email design added by some email clients. */
+              /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+          html,  body {
+                margin: 0 !important;
+                padding: 0 !important;
+                height: 100% !important;
+                width: 100% !important;
+          }
+          /* What it does: Stops email clients resizing small text. */
+          * {
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+          }
+          /* What it does: Forces Outlook.com to display emails full width. */
+          .ExternalClass {
+                width: 100%;
+          }
+          /* What is does: Centers email on Android 4.4 */
+          div[style*="margin: 16px 0"] {
+                margin: 0 !important;
+          }
+          /* What it does: Stops Outlook from adding extra spacing to tables. */
+          table,  td {
+                mso-table-lspace: 0pt !important;
+                mso-table-rspace: 0pt !important;
+          }
+          /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+          table {
+                border-spacing: 0 !important;
+                border-collapse: collapse !important;
+                table-layout: fixed !important;
+                margin: 0 auto !important;
+          }
+          table table table {
+                table-layout: auto;
+          }
+          /* What it does: Uses a better rendering method when resizing images in IE. */
+          img {
+                -ms-interpolation-mode: bicubic;
+          }
+          /* What it does: Overrides styles added when Yahoo's auto-senses a link. */
+          .yshortcuts a {
+                border-bottom: none !important;
+          }
+          /* What it does: Another work-around for iOS meddling in triggered links. */
+          a[x-apple-data-detectors] {
+                color: inherit !important;
+          }
+    </style>
+    <!-- Progressive Enhancements -->
+    <style type="text/css">
+        /* What it does: Hover styles for buttons */
+        .button-td,
+        .button-a {
+            transition: all 100ms ease-in;
+        }
+        .button-td:hover,
+        .button-a:hover {
+            background: #555555 !important;
+            border-color: #555555 !important;
+        }
+
+        /* Media Queries */
+        @media screen and (max-width: 600px) {
+
+            .email-container {
+                width: 100% !important;
+            }
+
+            /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+            .fluid,
+            .fluid-centered {
+                max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+            /* And center justify these ones. */
+            .fluid-centered {
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            /* What it does: Forces table cells into full-width rows. */
+            .stack-column,
+            .stack-column-center {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                direction: ltr !important;
+            }
+            /* And center justify these ones. */
+            .stack-column-center {
+                text-align: center !important;
+            }
+        
+            /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+            .center-on-narrow {
+                text-align: center !important;
+                display: block !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                float: none !important;
+            }
+            table.center-on-narrow {
+                display: inline-block !important;
+            }
+                
+        }
+    </style>
+</head>
+
+<body width="100%" style="margin: 0;" yahoo="yahoo" bgcolor="#E0E0E0">
+    <table style="border-collapse:collapse;" width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#E0E0E0">
+        <tbody>
+            <tr>
+                <td>
+                    <center style="width: 100%;">
+                        <!-- Visually Hidden Preheader Text : BEGIN -->
+                        <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family:
+                sans-serif;"> Check out this week's Central Connection to find out what's happening at Central Baptist Church. </div>
+                        <!-- Visually Hidden Preheader Text : END -->
+                        <!-- Email Header : BEGIN -->
+                        <table class="email-container" width="600" align="center">
+                            <tbody>
+                                <tr>
+                                    <td style="padding: 20px 0; text-align: center"><img src="https://i.imgur.com/eOlAuzK.png" alt="&amp;" width="200" height="50" border="0"></td>
+                                    <td style="padding: 40px; padding-top: 5px; padding-bottom: 5px; text-align: right; font-family:
+                      sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555;"><strong>November
+                        11, 2022</strong></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- Email Header : END -->
+                        <!-- Email Body : BEGIN -->
+                        <table class="email-container" width="600" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF" align="center">
+                            <!-- Hero Image, Flush : BEGIN -->
+                            <tbody>
+                                <tr>
+                                    <td class="full-width-image"> <img src="https://i.imgur.com/Xj0uIGU.png" alt="" style="width: 100%;
+                        max-width: 600px; height: auto;" width="600" border="0" align="middle"> </td>
+                                </tr>
+                                <!-- Hero Image, Flush : END -->
+                                <!-- 1 Column Text : BEGIN -->
+                                <tr>
+                                    <td style="padding: 40px; padding-top: 5px; padding-bottom: 5px; text-align: left; font-family:
+                      sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555;"> <br>
+                                        <br>
+                                        <p>On November 11, 1919, President Wilson declared on Armistice Day,<br>
+                                        </p>
+                                        <blockquote type="cite">"To us in America, the reflections of Armistice Day will be filled with solemn pride in the heroism of those who died in the country’s service and with gratitude for the victory, both because of the thing from which it has freed us and because of the opportunity it has given America to show her sympathy with peace and justice in the councils of the nations…"
+                                        </blockquote>
+                                        We now celebrate Veteran's Day on November 11. We live in the greatest country on earth, and that is because of the dedication of countless men and women who not only swore an oath to protect the Constitution of the United States but sacrificed greatly for the safety of all citizens. To all the veterans, thank you. <br>
+                                        <p>As I was writing last week's Central Connection, I was looking forward to church on Sunday. I guess God had different plans. I came down with flu symptoms on Saturday, which wiped me out for a few days. I greatly missed you, and I look forward to returning to the pulpit this Sunday.</p>
+                                        <p>On the Southern Baptist Convention emphasis calendar, this week is Orphans and Widows Sunday. The Bible tells the church to take special care of our orphans and widows. James writes,<br>
+                                        </p>
+                                        <blockquote type="cite">Pure and undefiled religion before God the Father is this: to look after <b>orphans
+                          and widows</b> in their distress and to keep oneself unstained from the world.<br> -James 1:27 CSB<br>
+                                        </blockquote>
+                                        Tomorrow, our ladies are hosting a Tea Party in honor of our widows. This event is a small way to let our widows know that we love them. I want to give a special thank you to Lori Stanley and Rachel Applegate for helping organize this event. Also, thank you to all the ladies coming to celebrate our widows. Let's pray that we all stay healthy and thank a veteran today.
+                                        <p>Pray that we all stay healthy and thank a veteran today.<br>
+                                        </p>
+                                        <p>Faithfully,<br>
+                                            <strong><em>Pastor Adam</em></strong></p>
+                                        <p><strong><em><br>
+                          </em></strong></p>
+                                    </td>
+                                    <!-- Hero Image, Flush : BEGIN -->
+                                </tr>
+                                <tr>
+                                    <td class="full-width-image"><img src="https://i.imgur.com/dF20G6w.png" alt="alt_text" style="width:
+                        100%; max-width: 600px; height: auto;" width="600" border="0" align="middle"></td>
+                                </tr>
+                                <!-- Hero Image, Flush : END -->
+                                <!-- 1 Column Text : BEGIN -->
+                                <tr>
+                                    <td style="padding: 40px; padding-bottom: 5px; padding-top: 5px; text-align: left; font-family:
+                      sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555;">
+                                        <h2>Reminders</h2>
+                                        <ul>
+                                            <li>Please bring your shoe boxes this Sunday if you have not done so yet.<br>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="full-width-image"><img src="https://i.imgur.com/dF20G6w.png" alt="alt_text" style="width:
+                        100%; max-width: 600px; height: auto;" width="600" border="0" align="middle"></td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 40px; padding-bottom: 5px; padding-top: 5px; text-align: left; font-family:
+                      sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555;">
+                                        <h2>Events</h2>
+                                        <h3>This Sunday</h3>
+                                        <ul>
+                                            <li>9:30 AM - Sunday School</li>
+                                            <li>10:45 AM - Worship Service</li>
+                                            <li>4:00 PM - Deacons Meeting<br>
+                                            </li>
+                                            <li>5:00 PM - Evening Bible Study and Shoe Box Send Off</li>
+                                            <li>6:00 PM - Choir Practice</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 40px; padding-top: 5px; padding-bottom: 5px; text-align: left; font-family:
+                      sans-serif; mso-height-rule: exactly; line-height: 20px; color: #555555;">
+                                        <h3>Coming Soon</h3>
+                                        <dl>
+                                            <dt><strong>Saturday,</strong> <em>Nov 12 at 2:00 PM</em></dt>
+                                        </dl>
+                                        <ul>
+                                            <li>Ladies' Tea Party honoring Widows</li>
+                                        </ul>
+                                        <dl>
+                                            <dt><strong>Thursday,</strong> <em>Nov 17 (5:30 PM-Chili Supper, 7:00 PM-Worship Service)</em></dt>
+                                        </dl>
+                                        <ul>
+                                            <li>Limestone Ministerial Association's Community Thanksgiving Service at First Christian Church.
+                                            </li>
+                                        </ul>
+                                        <p><b>Thursday, </b><i>Nov 17 at 6:30 PM<br>
+                        </i></p>
+                                        <ul>
+                                            <li>New Women's Bible Study, "The Wonder of Advent"<br>
+                                            </li>
+                                        </ul>
+                                        <ul>
+                                        </ul>
+                                        <dl>
+                                            <dt><strong>Sunday,</strong> <em>Nov 27</em></dt>
+                                        </dl>
+                                        <ul>
+                                            <li>Hanging of the Green Service</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="full-width-image"><img src="https://i.imgur.com/dF20G6w.png" alt="alt_text" style="width:
+                        100%; max-width: 600px; height: auto;" width="600" border="0" align="middle"></td>
+                                </tr>
+                                <!-- Hero Image, Flush : BEGIN -->
+                                <!-- Hero Image, Flush : END -->
+                                <!-- 1 Column Text : BEGIN -->
+                                <tr>
+                                    <td style="padding: 40px; padding-top: 5px; padding-bottom: 5px; text-align: left; font-family:
+                      sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555;">
+                                        <h2>Giving Update</h2>
+                                        <table style="color: #555555" border="1">
+                                            <caption> <strong>November Giving</strong> </caption>
+                                            <tbody>
+                                                <tr style="background-color:black; color:white">
+                                                    <th scope="col">Week</th>
+                                                    <th scope="col">General</th>
+                                                    <th scope="col">Building</th>
+                                                </tr>
+                                                <tr style="color: #555555">
+                                                    <th scope="row" style="color: #555555">Nov 6</th>
+                                                    <td>$3,967.30</td>
+                                                    <td>$1,055.00</td>
+                                                </tr>
+                                                <tr style="background-color:red; color:white">
+                                                    <th scope="row">Total</th>
+                                                    <td><strong>$3,967.30</strong></td>
+                                                    <td><strong>$1,055.00</strong></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <table style="color: #555555" border="1">
+                                            <caption> <strong>2022 Giving</strong> </caption>
+                                            <tbody>
+                                                <tr style="background-color: black; color:white">
+                                                    <th scope="col">Month</th>
+                                                    <th scope="col">General</th>
+                                                    <th scope="col">Building</th>
+                                                </tr>
+                                                <tr style="color: #555555">
+                                                    <th scope="row" style="color: #555555">January</th>
+                                                    <td>$10,328.04</td>
+                                                    <td>$1,890.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">February</th>
+                                                    <td>$10,859.66</td>
+                                                    <td>$2,395.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">March</th>
+                                                    <td>$11,260.43</td>
+                                                    <td>$2,120.27</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">April</th>
+                                                    <td>$9,495.30</td>
+                                                    <td>$1,860.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">May</th>
+                                                    <td>$11,802.00</td>
+                                                    <td>$2,420.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">June</th>
+                                                    <td>$9,292.30</td>
+                                                    <td>$1,891.17</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">July</th>
+                                                    <td>$11,900.30</td>
+                                                    <td>$2,490.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">August</th>
+                                                    <td>$9,293.30</td>
+                                                    <td>$1,550.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">September</th>
+                                                    <td>$9,231.80</td>
+                                                    <td>$2,975.69</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">October</th>
+                                                    <td>$14,411.23</td>
+                                                    <td>$3,294.81</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">November</th>
+                                                    <td>$3,967.30</td>
+                                                    <td>$1,055.00</td>
+                                                </tr>
+                                                <tr style="background-color: red; color:white">
+                                                    <th scope="row">Total</th>
+                                                    <td><strong>$111,841.66</strong></td>
+                                                    <td><strong>$23,941.94</strong></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <!-- Button : Begin -->
+                                        <table style="margin: auto" cellspacing="0" cellpadding="0" border="0" align="center">
+                                            <tbody>
+                                                <tr>
+                                                    <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td">
+                                                        <a href="https://cbcmaysville.com/give/" style="background: #222222; border: 15px solid
+                                #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px;
+                                line-height: 1.1; text-align: center; text-decoration: none; display: block;
+                                border-radius: 3px; font-weight: bold;" class="button-a" target="_blank">Give Now</a> </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <!-- Button : END -->
+                                    </td>
+                                </tr>
+                                <!-- Hero Image, Flush : BEGIN -->
+                                <tr>
+                                    <td class="full-width-image"><img src="https://i.imgur.com/dF20G6w.png" alt="alt_text" style="width:
+                        100%; max-width: 600px; height: auto;" width="600" border="0" align="middle"></td>
+                                </tr>
+                                <!-- Hero Image, Flush : END -->
+                                <!-- 1 Column Text : BEGIN -->
+                                <!-- Two Even Columns : BEGIN -->
+                                <tr>
+                                    <td style="padding: 10px;" valign="top" align="center">
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                            <tbody>
+                                                <tr>
+                                                    <td class="stack-column-center">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="padding: 10px; text-align: center">
+                                                                        <a href="https://cbcmaysville.com/2022/10/30/prayer-the-key-to-a-successful-life/" target="_blank"><img src="https://i.imgur.com/dZr0AIj.jpg" alt="alt_text" class="fluid" width="270" height="270" border="0"></a>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly;
+                                      line-height: 20px; color: #555555; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
+                                                                        <!-- Button : Begin -->
+                                                                        <table style="margin: auto" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"> <a href="https://cbcmaysville.com/2022/10/30/prayer-the-key-to-a-successful-life/" style="background: #222222; border: 15px solid #222222; padding: 0
+                                                10px;color: #ffffff; font-family: sans-serif; font-size: 13px;
+                                                line-height: 1.1; text-align: center; text-decoration: none; display:
+                                                block; border-radius: 3px; font-weight: bold;" class="button-a" target="_blank">Watch Sermon</a> </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <!-- Button : END -->
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                    <td class="stack-column-center">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="padding: 10px; text-align: center">
+                                                                        <a href="https://cbcmaysville.com/2022/10/30/humanity-and-salvation/" target="_blank"><img src="https://i.imgur.com/7qmds3H.jpg" alt="alt_text" class="fluid" width="270" height="270" border="0"></a>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly;
+                                      line-height: 20px; color: #555555; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
+                                                                        <!-- Button : Begin -->
+                                                                        <table style="margin: auto" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"> <a href="https://cbcmaysville.com/2022/10/30/humanity-and-salvation/" style="background: #222222; border: 15px solid #222222; padding: 0
+                                                10px;color: #ffffff; font-family: sans-serif; font-size: 13px;
+                                                line-height: 1.1; text-align: center; text-decoration: none; display:
+                                                block; border-radius: 3px; font-weight: bold;" class="button-a" target="_blank">Watch Bible Study</a> </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <!-- Button : END -->
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <!-- Two Even Columns : END -->
+                                <!-- Hero Image, Flush : BEGIN -->
+                                <tr>
+                                    <td class="full-width-image"><img src="https://i.imgur.com/dF20G6w.png" alt="alt_text" style="width:
+                        100%; max-width: 600px; height: auto;" width="600" border="0" align="middle"></td>
+                                </tr>
+                                <!-- Hero Image, Flush : END -->
+                                <!-- Thumbnail Left, Text Right : BEGIN -->
+                                <tr>
+                                    <td dir="ltr" style="padding: 10px;" width="100%" valign="top" align="center">
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                            <tbody>
+                                                <tr>
+                                                    <td class="stack-column-center" width="33.33%">
+                                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td dir="ltr" style="padding: 0 10px;" valign="top"><img src="https://i.imgur.com/JVC4oUn.png" alt="alt_text" class="center-on-narrow" width="170" border="0"></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                    <td class="stack-column-center" width="66.66%">
+                                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td dir="ltr" style="font-family: sans-serif; font-size: 15px; mso-height-rule:
+                                      exactly; line-height: 20px; color: #555555; padding: 10px; text-align: left;" class="center-on-narrow" valign="top"> <strong style="color:#111111;">Prayer List</strong><br>
+                                                                        <br> "And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers." - <em>Acts 2:42 ESV</em><br>
+                                                                        <br>
+                                                                        <!-- Button : Begin -->
+                                                                        <table class="center-on-narrow" style="float:left;" cellspacing="0" cellpadding="0" border="0">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"> <a href="https://cbcmaysville.notion.site/Prayer-List-34a017fcb8f54fd1bc78de2268615790" style="background: #222222; border: 15px solid #222222; padding: 0
+                                                10px;color: #ffffff; font-family: sans-serif; font-size: 13px;
+                                                line-height: 1.1; text-align: center; text-decoration: none; display:
+                                                block; border-radius: 3px; font-weight: bold;" class="button-a" target="_blank">Prayer List</a> </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        <!-- Button : END -->
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <!-- Thumbnail Left, Text Right : END -->
+                            </tbody>
+                        </table>
+                        <!-- Email Body : END -->
+                        <!-- Email Footer : BEGIN -->
+                        <table class="email-container" width="600" align="center">
+                            <tbody>
+                                <tr>
+                                    <td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule:
+                      exactly; line-height:18px; text-align: center; color: #888888;">
+                                        <webversion style="color:#555555; text-decoration:underline; font-weight: bold;"><a href="https://adamburton83.github.io/central_connection/11-11-2022.html" target="_blank"><span
+                            style="color: #555555">View as a Web Page</span></a></webversion> <br>
+                                        <br> Central Baptist Church<br>
+                                        <span class="mobile-link--footer">437 Central Ave | Maysville, KY</span> <br>
+                                        <br>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- Email Footer : END -->
+                    </center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
